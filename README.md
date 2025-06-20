@@ -1,2 +1,0 @@
-# disponibilidade
-Quadro de disponibilidade
